@@ -31,4 +31,4 @@ python main.py
 
 Built for Linux users.
 
-## Imp- RRoot Privlage will be required
+## Imp- Root Privlage will be required
