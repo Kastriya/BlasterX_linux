@@ -30,3 +30,5 @@ python main.py
 - Linux only
 
 Built for Linux users.
+
+IMP- ROOT PRIVLEAGE WILL BE REQUIRED
