@@ -32,3 +32,5 @@ python main.py
 Built for Linux users.
 
 ## Imp- Root Privlage will be required
+
+## This project was 70% vibe coded and 30% manual
